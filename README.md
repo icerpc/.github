@@ -1,2 +1,2 @@
 # .github
-Default Community health files for ZeroC projects
+Default Community health files for IceRpc projects
