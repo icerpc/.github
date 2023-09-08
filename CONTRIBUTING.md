@@ -1,6 +1,6 @@
-# Contributing to IceRpc
+# Contributing to IceRPC
 
-Thank you for your interest in contributing to IceRpc!
+Thank you for your interest in contributing to IceRPC!
 
 ## How to Contribute
 
@@ -12,8 +12,8 @@ To contribute code or documentation to this project, please follow these steps:
 
 2. If you're planning to make a significant contribution, such as a new feature
    or major changes, please discuss your ideas with the community first by
-   starting a discussion in the relevant repository or by contacting us via 
-   [email](mailto:contributing@zeroc.com).
+   starting a [discussion](https://github.com/orgs/icerpc/discussions) or by contacting us via 
+   [email](mailto:hello@icerpc.dev).
 
 3. Fork this repository.
 
@@ -25,8 +25,3 @@ To contribute code or documentation to this project, please follow these steps:
 We review carefully any contribution that we accept, and these reviews may take
 some time. Please keep in mind there is no guarantee your contribution will be
 accepted: we may reject a pull request for any reason, or no reason.
-
-## Contact
-
-- Twitter: <https://twitter.com/zeroc>
-- Email: <contributing@zeroc.com>
